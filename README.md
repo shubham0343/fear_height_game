@@ -1,3 +1,3 @@
 #A Unity Game : Fear Height  
   
-A game to test and overcome you're fear of heights!!
+A game to test and overcome your fear of heights!!
